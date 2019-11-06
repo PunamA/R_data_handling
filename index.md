@@ -7,7 +7,7 @@ address: "University of Oxford, IT Services, 13 Banbury Road"      # full street
 country: "gb"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "51.759967,-1.260510"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "June 3, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: " "    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:30 am - 12:30 am"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 instructor: ["Punam Amratia"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Penny Hancock"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
