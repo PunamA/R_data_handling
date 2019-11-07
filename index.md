@@ -148,6 +148,21 @@ Display the contact email address set in the configuration file.
 <hr/>
 
 {% comment %}
+PRE-REQUISITES
+This course expects students to have a slight familiarity with R. We reccommend students take Oxford IT learning Centre R:Intro to Features course or something equivalent before attending. If you are unsure whether you meet the criteria please try to answer the following questions:
+
+
+
+We also reccomend going through the following material before the class as it will greatly improve what you learn:
+<div class="row">
+  <div class="col-md-6">
+    <h3 id="syllabus-ecology-r">Introduction to R</h3>
+    <ul>
+      <li><a href="http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html">Overview of R and RStudio</a></li>
+      <li><a href="http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html">Introduction to R</a></li>
+    </ul>
+  </div>
+  
 SCHEDULE
 
 Show the workshop's schedule.  Edit the items and times in the table
