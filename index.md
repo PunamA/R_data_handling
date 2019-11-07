@@ -147,8 +147,8 @@ Display the contact email address set in the configuration file.
 
 <hr/>
 
-{% comment %}
-PRE-REQUISITES
+
+<h2 id="Pre-requisites">Pre-requisites</h2>
 This course expects students to have a slight familiarity with R. We reccommend students take Oxford IT learning Centre R:Intro to Features course or something equivalent before attending. If you are unsure whether you meet the criteria please try to answer the following questions:
 
 
@@ -163,6 +163,7 @@ We also reccomend going through the following material before the class as it wi
     </ul>
   </div>
   
+{% comment %}
 SCHEDULE
 
 Show the workshop's schedule.  Edit the items and times in the table
