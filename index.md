@@ -148,9 +148,9 @@ Display the contact email address set in the configuration file.
 <hr/>
 
 
-<p id="pre-req">
 <h2 id="Pre-requisites">Pre-requisites</h2>
 This course expects students to have a slight familiarity with R. We reccommend students take Oxford IT learning Centre R:Intro to Features course or something equivalent before attending. If you are unsure whether you meet the criteria please try to answer the following questions:
+
 
 ```
 data <- read.csv("data_raw/portal_suruvey_data.csv")
@@ -170,7 +170,6 @@ We also reccomend going through the following material before the class as it wi
       <li><a href="https://www.datamentor.io/r-programming/operator/">What are R operators?</a></li>   
     </ul>
   </div>
- </p>
 
 
 {% comment %}
