@@ -148,21 +148,31 @@ Display the contact email address set in the configuration file.
 <hr/>
 
 
+<p id="pre-req">
 <h2 id="Pre-requisites">Pre-requisites</h2>
 This course expects students to have a slight familiarity with R. We reccommend students take Oxford IT learning Centre R:Intro to Features course or something equivalent before attending. If you are unsure whether you meet the criteria please try to answer the following questions:
 
+```
+data <- read.csv("data_raw/portal_suruvey_data.csv")
+ data[,"species"]
+ data[1:6,]
+ data[data$weight < 5, ]
+ ```
 
 
 We also reccomend going through the following material before the class as it will greatly improve what you learn:
 <div class="row">
   <div class="col-md-6">
-    <h3 id="syllabus-ecology-r">Introduction to R</h3>
+    <h3 id="syllabus-ecology-r">Basics to help you:</h3>
     <ul>
       <li><a href="http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html">Overview of R and RStudio</a></li>
       <li><a href="http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html">Introduction to R</a></li>
+      <li><a href="https://www.datamentor.io/r-programming/operator/">What are R operators?</a></li>   
     </ul>
   </div>
-  
+ </p>
+
+
 {% comment %}
 SCHEDULE
 
