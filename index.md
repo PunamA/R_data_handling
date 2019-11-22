@@ -182,7 +182,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 {% endcomment %}
 
 <hr/>
-<br/>
+
 <h2 id="schedule">Schedule</h2>
 
 {% if page.carpentry == "swc" %}
@@ -228,7 +228,7 @@ This is one of the places where people frequently make mistakes, so
 please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
-<br/>
+
 <h2 id="syllabus">Syllabus</h2>
 
 {% if page.carpentry == "swc" %}
